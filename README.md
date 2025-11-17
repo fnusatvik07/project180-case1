@@ -4,6 +4,7 @@
 
 NLSQL Agent • MCP Server • Role-Based Access • REST API System
 
+
 ### 1. Introduction
 
 Project 180 is a real-world backend AI engineering challenge designed to help participants build a production-style agentic system.
@@ -34,6 +35,10 @@ Build a backend system that enables the following flow:
 8. Action is logged in the audit system
 
 9. Participants must implement at least eight (8) REST API endpoints and support multiple real-world scenarios such as filtering, joins, bulk operations, and admin-only actions.
+
+# Architecture
+
+![Project Diagram](./architecture.png)
 
 ## Example queries the system must be able to interpret:
 
