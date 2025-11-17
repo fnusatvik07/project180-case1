@@ -38,7 +38,7 @@ Build a backend system that enables the following flow:
 
 # Architecture
 
-![Project Diagram](./architecture.png)
+![alt text](https://file%2B.vscode-resource.vscode-cdn.net/Users/datasense/Desktop/project180/arhcitecture.png?version%3D1763342431819)
 
 ## Example queries the system must be able to interpret:
 
